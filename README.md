@@ -18,7 +18,7 @@ Ensure you have Python 3.8+ installed along with the required dependencies.
 **Steps to Run the Project**
 
 **1.Clone the repository**
-git clone https://github.com/your-username/neural-style-transfer.git  
+git clone https://github.com/Dipti-24/Neural_Stylee_Transfer_P.git
 cd neural-style-transfer  
 **2. Install dependencies**
 pip install -r requirements.txt  
