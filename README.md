@@ -48,10 +48,8 @@ This project is licensed under the [MIT License](https://github.com/Dipti-24/Neu
 ## Contact
 For any queries or collaboration opportunities, feel free to reach out:
 
-  ### Email:mishradipti2402@gmail.com
-
-  ### GitHub: github.com/Dipti-24
-
-  ### LinkedIn: https://www.linkedin.com/in/dipti-mishra-3b4954215/
+  **Email** :mishradipti2402@gmail.com
+  
+ 
 
 
