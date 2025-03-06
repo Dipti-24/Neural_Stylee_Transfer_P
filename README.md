@@ -1,6 +1,6 @@
 **Neural Style Transfer with VGG19**
 
-** Project Overview**
+**Project Overview**
 
 This project demonstrates Neural Style Transfer (NST) using a pre-trained VGG19 model in Keras. Neural Style Transfer allows you to blend the content of one image with the style of another, creating an entirely new artistic image that retains the structure of the content image while adopting the visual appearance of the style image.
 
@@ -11,7 +11,7 @@ This project demonstrates Neural Style Transfer (NST) using a pre-trained VGG19 
 3. Customizable Parameters: Adjust content/style weights for different effects.
 4. Pre-trained VGG19 Model: Uses a well-trained network for feature extraction.
 
-**🏗Installation & Setup
+**Installation & Setup
 Prerequisites**
 Ensure you have Python 3.8+ installed along with the required dependencies.
 
@@ -19,6 +19,7 @@ Ensure you have Python 3.8+ installed along with the required dependencies.
 
 **1.Clone the repository**
 git clone https://github.com/Dipti-24/Neural_Stylee_Transfer_P.git
+
 cd Neural_Stylee_Transfer_P
 **2. Install dependencies**
 pip install -r requirements.txt  
