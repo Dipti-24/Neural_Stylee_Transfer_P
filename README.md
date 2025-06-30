@@ -26,19 +26,10 @@ Ensure you have Python 3.8+ installed along with the required dependencies.
 
 ### Steps to Run the Project
 
-### 1.Clone the repository
-git clone https://github.com/Dipti-24/Neural_Stylee_Transfer_P.git
+#### With Google Colab
+ Just open and run the notebook in your browse
 
-cd Neural_Stylee_Transfer_P
 
-### 2. Install dependencies
-pip install -r requirements.txt  
-
-### 3. Run the script
-python style_transfer.py 
-
-### 4.View the output
-The generated image will be saved as result.jpg.
 
 ## How It Works
 The VGG19 model is used to extract content and style representations from the input images.
